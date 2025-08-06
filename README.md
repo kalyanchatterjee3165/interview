@@ -392,12 +392,3 @@ Most connection strings include:
 postgresql://username:password@host:port/dbname
 ```
 
----
-
-## Contributing
-
-Feel free to contribute more questions or improve existing ones by submitting a pull request!
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
